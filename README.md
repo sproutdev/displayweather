@@ -1,3 +1,3 @@
-# displayweather
+# Weather Application
 
 Simple weather application using node js 
