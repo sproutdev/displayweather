@@ -1,3 +1,3 @@
 # Weather Application
 
-Simple weather application using node js 
+Simple weather application using node
